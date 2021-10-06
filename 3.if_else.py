@@ -43,4 +43,4 @@ elif current_temp > max_temp:
     print("Выключен нагрев")
 else:
     print("Температура оптимальна")
-    
+
